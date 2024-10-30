@@ -1,0 +1,11 @@
+{
+  "name": "decorative-gourd-season",
+  "version": "1.0.0",
+  "description": "Determine whether it is or is not decorative gourd season with one easy command.",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MWDelaney",
+  "license": "MIT"
+}
